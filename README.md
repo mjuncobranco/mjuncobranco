@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Melina Junco Branco</h1>
-<h3 align="center">A passionate frontend developer from Malaga, Spain</h3>
+<h3 align="center">A passionate web developer from Malaga, Spain</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Python and React**
+- 🌱 I’m currently working on a new FullStack App built with **MERN Stack**.
 
-- 👯 I’m looking to collaborate on **FullStack web development projects**
+- 👯 I’m looking to collaborate on **FullStack Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mjuncobranco](https://github.com/mjuncobranco)
 
-- 💬 Ask me about **HTML, CSS, Sass, JavaScript**
+- 💬 Ask me about **HTML, CSS, Sass, JavaScript, React, Express, Node, mySQL, Mongodb,**
 
 - 📫 How to reach me **mjuncobranco@gmail.com**
 
