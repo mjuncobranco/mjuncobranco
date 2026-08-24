@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mjuncobranco](https://github.com/mjuncobranco)
 
-- 💬 Ask me about **HTML, CSS, Sass, JavaScript, React, Express, Node, mySQL, Mongodb, WordPress, PHP**
+- 💬 Ask me about **HTML, CSS, Sass, JavaScript, React, Express, Node, mySQL, Mongodb, WordPress, PHP, AI Tools and more**
 
 - 📫 How to reach me **mjuncobranco@gmail.com**
 
