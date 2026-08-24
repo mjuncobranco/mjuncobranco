@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Melina Junco Branco</h1>
-<h3 align="center">A passionate web developer from Malaga, Spain</h3>
+<h3 align="center">I'm a Full Stack Web Developer passionate about building functional, accessible, and user-focused web experiences.</h3>
 
-- 🌱 I’m currently working on a new FullStack App built with **MERN Stack**.
 
-- 👯 I’m looking to collaborate on **FullStack Web Development Projects**
+- 🎬 I built a complete **full-stack movie application** using the MERN stack (MongoDB, Express, React & Node.js), including frontend, backend, database integration, authentication, and API communication.
+
+- 💼 I developed a complete **job portal** from scratch for a company, using PHP and WordPress, from its initial setup to the final implementation.
+  
+- ♿ **Web accessibility** and **inclusivity** are an important part of my development process. I strive to build interfaces that are usable and accessible to all.
+  
+- 🎨 I have a strong interest in **UI/UX design** and enjoy combining design principles with development to create intuitive, responsive, and engaging user experiences.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mjuncobranco](https://github.com/mjuncobranco)
 
-- 💬 Ask me about **HTML, CSS, Sass, JavaScript, React, Express, Node, mySQL, Mongodb,**
+- 💬 Ask me about **HTML, CSS, Sass, JavaScript, React, Express, Node, mySQL, Mongodb, WordPress, PHP**
 
 - 📫 How to reach me **mjuncobranco@gmail.com**
 
@@ -15,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mjuncobranco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mjuncobranco/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mjuncobranco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Link to LinkedIn Profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
